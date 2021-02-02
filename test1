@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page Title</title>
+</head>
+<body>
+<style>
+body{
+	background-color: #283747;
+    border-color: white;
+    margin-top: 80px;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-bottom: 125px;
+    
+}
+
+img{
+	width: 95%;
+    border: 5px;
+    border-color: black;
+    box-shadow: 2px;
+}
+
+img:hover{
+	opacity:0.8;
+}
+
+h1{
+	text-align: center;
+	color: white;
+    font-family:Verdana, Arial;
+}
+
+p{
+	color: white;
+    font-family: Verdan, Arial;
+}
+
+p2{
+  border-left: 6px solid;
+  border-color: #EBF5FB;
+  background-color: lightgray;
+  color: Black;
+  font-family: Verdana;
+}
+
+</style>
+
+<h1>Testside for Mobile tjenester</h1>
+
+<p>Dette er en side hvor praktisk eksperimentering kan finne sted. Her vil jeg jobbe med layout og web-utvikling gjennom praktisk å utilisere mine opparbeidede kunnskaper om webprogammering i form av HTML.</p>
+
+<a href="https://www.nord.no/no"><img src=https://www.nord.no/Style%20Library/Images/nordlogono.jpg alt="https://www.nord.no/no"></a>
+
+<p2> Laget av David Aleksander Bjorsvik</p2>
+
+</body>
+</html>
